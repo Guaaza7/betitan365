@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 10ec36edd4fe6bb713e72133625ae06675f1f991 jorgerep31 <42335306-jorgerep31@users.noreply.replit.com> 1746501443 +0000	commit (initial): Initial commit
+10ec36edd4fe6bb713e72133625ae06675f1f991 432b03f45ee73a906bb2e9336f95b89d6db31585 jorgerep31 <42335306-jorgerep31@users.noreply.replit.com> 1746501443 +0000	commit: Initial checkpoint
+432b03f45ee73a906bb2e9336f95b89d6db31585 5c00510838baf95745ecd0c247d9153245c2dfad jorgerep31 <42335306-jorgerep31@users.noreply.replit.com> 1746502946 +0000	commit: Initialize platform with core components, pages, and basic layout
+5c00510838baf95745ecd0c247d9153245c2dfad 9cbd0740b7269d9e570d1bb35558ffda28ee0df3 jorgerep31 <42335306-jorgerep31@users.noreply.replit.com> 1746503165 +0000	commit: Ensure bet amounts are properly initialized when users add new bets
