@@ -1,0 +1,7 @@
+Ensure bet amounts are properly initialized when users add new bets
+
+Updates useEffect hook in BetSlip component to correctly initialize bet amounts when new items are added to the bet slip.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: fa0666e4-56ac-4f0b-85f9-2094bfbe204b
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/43e6a932-d3a4-497a-b11d-9fcdf99ab01a/da98d37e-8c26-4434-88fd-406a70f0115c.jpg
